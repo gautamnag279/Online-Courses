@@ -1,0 +1,90 @@
+- STORED & REUSED FUNCTION
+1. A python function that has a code written below it and is stored using a name. 
+2. The reusable pieces of code are called "functions".
+3. The function begins with the keyword "def".
+4. And then when the particular stored function code is to be re-used again in the code, we remove the keyword and just place the name of the function.
+eg.
+def squad():
+    print("levi")                    {notice that there is an indentation here}
+
+squad()                                {notice that there is no semicolon (:) here}
+print("ackerman")            {notice that there is no indentation here}
+>>>levi ackerman
+
+2. The "def" function only remembers a functiona nd will only execute it if it is later called back.
+eg.
+x = 5
+print("hello")
+def lyrics():
+print("mamma, just killed a man")         
+
+print('yo')
+>>> hello yo                        {note that since the "def" function is not called, it is not executed}
+
+**********
+
+- MIN & MAX FUNCTION 
+1. The "max" function tells us the max value of the character contained within it.
+eg. 
+big = max("red striped fox")
+print(big)
+>>> x
+
+big = max("-787")
+print(big)
+>>> 8
+
+big = max("97")
+print(big)
+>>> 9
+
+2. The "min" function tells us the min value of the chracters contained within it.
+eg. 
+small = min("red striped fox")
+print(small)
+>>> d
+
+small = min("-787")
+print(small)
+>>> -
+
+small = min("97")
+print(small)
+>>> 7
+
+3. The "def" function only remembers a function and will only execute it if it is later called back.
+
+**********
+
+- PARAMETERS
+1. A parameter is a variable which we use in the function 'definition'. Think of it as being "the alias" of our function. If you want it to be a bit simpler to understand, think of it as being a placeholder for the code.
+eg.
+def greet(lang):
+    if lang == "es":
+        print("hola")
+    elif lang == "en":
+        print("bonjour")
+    else :
+        print("hello")
+
+greet("en")                       {here the word "en" is transferred to the placeholder "lang". The placeholder value is then executed in the 'def' code and the result is transfered back to "en"}
+>>> bonjour
+greet("es")
+>>> hola
+greet("hi")
+>>> hello
+
+**********
+
+- RETURN FUNCTION
+1. Often times a function will take its arguments, do some calculation and 'return' a value of the function call. This can be achieved by using the "return" function.
+
+2. The "return" statement is also used to stop the function.
+eg.
+def greet():
+    return "hello"
+    
+print(greet() , "Emily")
+>>> hello Emily
+print(greet() , "Scarlett")
+>>> hello Scarlett

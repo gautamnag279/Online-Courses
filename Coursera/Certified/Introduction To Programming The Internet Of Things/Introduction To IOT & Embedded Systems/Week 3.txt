@@ -1,0 +1,34 @@
+1. IOT is a combination of hardware and software.
+
+2. Before building an IOT project always have a datasheet prepared beforehand. Datasheets are information sheet about hardware component.
+
+3. Microcontroller characteristics:
+        () Datapath Bitwidth: Determines accuracy and data throughput.
+        () Input/Output Pins: Need enough pins to support your application.
+        () Performance: Clock rates are slower than desktop.
+        () Timers: Needed for real time applications.
+        () Analog to Digital Converters: For conversions.
+        () Low power modes: Power saving is key.
+        () Communication protocol support: Interfacing with other ICs.
+
+4. Microcontrollers have different types of memory. One of them is flash memory, which means that even if the power is turned off the data is not lost(eg. pen-drives).
+
+5. Microcontrollers have registers (store a single value), and that makes them extremely fast and at the same time expensive.
+
+6. Microcontrollers store and perform operations in registers. A common microcontroller has 32 registers.
+
+7. Often the files are stored in form of caches rather than registers. This is cause caches are inexpensive and fast(although still slower than registers).
+
+8. Then comes "main memory". These are bigger, cheaper and slower than caches. These are put off the main processor. 
+
+9. Stored-program concept. ... The idea was introduced in the late 1940s by John von Neumann, who proposed that a program be electronically stored in binary-number format in a memory device so that instructions could be modified by the computer as determined by intermediate computational results.
+
+10. All software must be translated into the machine language on the microcontroller. The sequence from the user end to the machine is: 
+High level language(C, Python...etc) -> Assembly language -> Machine Lanaguage
+
+11. Embedded systems use compilation languages(C & C++) than using an interpreter language(Python).
+
+12. How the software tool chain works:
+a) You write the code in a "host platform" which is basically your laptop or PC and then compile it.
+
+b) Then the compiler turns that code into an assemby code which then gets feeded into an assembler(the microprocessor) which then converts in into a machine code  called an "object file" and that gets sent to a linker where the code is debugged and executed.

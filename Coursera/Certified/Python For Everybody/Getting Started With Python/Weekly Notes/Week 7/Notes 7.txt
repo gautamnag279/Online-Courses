@@ -1,0 +1,83 @@
+- Repeated Steps
+1. Repeats or executes a certain lock of code.
+eg.
+n  =  5
+while n > 0:     {here 'n' is called the iteration variable}
+       print(n)
+       n = n-1
+print('BlastOff')
+print(n)
+>>> 5 4 3 2 1 
+>>> BlastOff
+>>> 0
+
+**********
+
+- INFINITE LOOPS
+eg. 
+n = 5
+while n > 0:
+       print('hi')
+print('there')
+
+**********
+- ZERO TRIP LOOPS
+1. In these types of loops, the 'while conditions is false in the beginning itself and therefore the loop is not executed.
+eg:
+n = 0 
+while n > 0:
+       print('hi')
+print('hello')
+>>> hello
+
+**********
+
+- BREAKS
+1. Breaks are 'statements' that end the current loop and jump to the statemet immediately following the loop.
+
+2. Continue 'statement' however ends the 'current iteration' and jumps to the top of the loop ad starts the next iteration.
+
+**********
+
+-  FOR LOOP
+1. The 'for loop' is a definite loop and takes an iteration variable and scans it through the given set of data. As long as the value of the 'iteration' is in the data the 'for loop' will run. 
+eg.
+for i in [5,4,3,2,1]:     {note that here 'in' is a python reserved word}
+      print(i)
+print('quit')
+>>> 5 4 3 2 1 quit
+
+**********
+
+- SMART LOOPS
+eg.
+largest  = -1
+for i in [9,5,33,67,32,76,97,55,99] :
+    if i > largest:
+        largest = i
+    print(largest)
+print('biggest' , largest)
+
+**********
+
+- COUNTING IN A LOOP
+1. In this case a variable is initially set at 0.
+eg.
+count = 0
+for i in [9,684,76,86,94,64,87,85]:
+    count = count + 1 
+    print(count,i)
+>>>
+1 9
+2 684
+3 76
+4 86
+5 94
+6 64
+7 87
+8 85
+
+-
+
+
+

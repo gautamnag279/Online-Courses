@@ -1,0 +1,25 @@
+1. Points inside a network where two or more lines meet are called buses. These buses are usually present with switching devices to isolated affected lines for the purpose of performing maintainance oreliminating faults.
+
+2. The special arrangement of the facilities necessary for measurements, monitoring, protection, and ancillary tasks, is known as a switch gear. 
+
+3. To deliver vast amounts of generated power over long distances, it should be stepped up, and here, step up transformers do their job by converting generated voltage to high levels such as 115 to 750 kilovolts, or sometimes even more.
+
+4. If current is flowing through the line, it creates power losses that are dissipated as heat, and you recall that P equals I square R. Since power is not free and costs money, the lower the losses, the higher are the savings. Therefore, it is much more economical to transmit electric power at large distances, at higher voltages. Also, recall that resistance of a line is directly proportional to the length of the line. So that, the longer the line, the higher its resistance.
+
+5. Substations are used to branch from one or several incoming lines, into several outgoing lines that have their paths and connect with other substations at the same or different voltage levels. 
+
+6. Typically, transmission lines are located in remote areas so they can run for long distances in a straight line as it is much cheaper to build that way. In contrast, distribution lines have to be close to the customer and consequently, they are more numerous. In general, distribution lines are radial or run away from the transmission lines to a dead end.
+
+7. The voltage reduction allows the utility to use smaller wires and shorter polls for distributing power to consumers. 
+
+8. Distribution networks are usually one of two different types, radial or interconnected. Radial distribution networks are systems with a single power source for a group of distribution customers. In radial systems, distribution lines stem from a single power source and continue through the service area without a conduction to additional power supplies. This is the cheapest type of distribution network. But also the least reliable as there are no redundant or back up power sources.
+
+9. Interconnected distribution networks are composed of multiple connections to power supply sources. Interconnected systems might be configured in the loop with power sources located in various locations along the loop. They may also be configured in a web with power sources interconnected within the complex framework. Interconnected systems are more expensive than radial systems, but they offer a much higher level of reliability due to the redundancy of power sources. 
+
+10. Circuit breakers and switches enable the substation to be disconnected from the transmission grid or for distribution lines to be disconnected. 
+
+11. From the transformer, power goes to the busbar that can split the distribution power off in multiple directions. The bus distributes power to distribution lines, which fan out to customers.
+
+12. Urban distribution is mainly underground, sometimes in common utility ducts. Rural distribution is mostly above ground with utility poles and suburban distribution is a mix. 
+
+13. The power comes to the customer via a service drop and electricity meter. 

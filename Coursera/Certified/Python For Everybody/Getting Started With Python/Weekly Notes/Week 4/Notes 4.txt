@@ -1,0 +1,138 @@
+- RESERVED WORDS
+(These words cannot be used to assign values)
+False	class	finally	is	return
+None	continue	for	lambda	try
+True	def	from	nonlocal	while
+and	del	global	not	with
+as	elif	if	or	yield
+assert	else	import	pass	 
+break	except	in	raise
+
+**********
+
+- CONSTANTS
+1. Numeric (123, 3497538, 446.25)
+2. String("hello" & 'vsauce' & "michael" & 'here')
+
+**********
+ 
+- VARIABLES
+1. In codes the 'assignment sign' is denoted by (=) and the 'equals to' sign in denoted by (==).
+
+2. If you re-assign the value belonging to a variable in the middle of the program, then python will use the new assigned value as the stored value for that variable.
+eg:
+>>> x = 12.65
+>>> x = 100
+>>> print(x)
+100
+
+3. Variable names in python are "case sensitive" which means that 'Eboy' & 'eboy' are two different variable names.
+
+4. Avoid using underscore(_) in between words while using it as a variable. If you have to use underscores, use it at the begining of the variable name and not in the middle.
+For eg.
+_guywhotookatit ==> CORRECT
+guy_who_took_a_tit  ==> INCORRECT
+
+**********
+
+- SENTENCES
+x = 2 (x is assigned a value of 2)
+x = x + 2 (2 is brought back from the previous memory and re-assigned to the expression and now, x holds a new value i.e 4(2+2)
+print(x)
+4 (the new assigned value of x is displayed)
+
+**********
+
+- MNEMONIC NAMES
+1. This is the way or art of using variable names such that it makes it easier for the reader to understand the code and for you to degug it if there's an error.
+e.g:
+breadth = 7
+area = length * breadth
+print(area)
+35
+
+length = 2
+breadth = 4
+print(length*breadth)
+8
+
+**********
+
+- OPERATORS
+1. Python works in the way any general mathematics expression works. It follows the BODMAS rule. And if theres a power(**) on any number, then the power operation in done before division and the rule becomes BOPDMAS.
+
+2. Python variables can store strings and characters as well and perform operation on them. But these strings must be imcased in between single quotes(' ')
+e.g
+x = 'you '
+y = 'fell '
+a = 'for '
+b = 'it '
+c = 'fool '
+print(x+y+a+b+c)
+you fell for it fool
+
+**********
+
+- TYPE FUNCTION
+1. You can use the function [type(' ')] to ask Python what kind of varible something is.
+e.g 
+>>> type('hi')
+<class 'str'>
+ >>> type('2')
+<class 'str'>
+>>> type(2)
+<class 'int'>
+
+ >>> x = 5
+>>> type(x)
+<class 'int'>
+>>> y = 97.0
+>>> type(y)
+<class 'float'>
+
+**********
+
+- TYPE CONVERSION
+>>> x = 5
+>>> y = 4
+>>> print(float(x) + y)
+9.0
+
+>>> print(float(55) + 5)
+60.0
+
+**********
+
+- STRING CONVERSIONS
+>>> abc = 123
+>>> type('abc')
+<class 'str'>
+>>> print(abc + 1)
+124
+
+>>> pqr = '234'
+>>> type('pqr')
+<class 'str'>
+>>> print(pqr + 1)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: can only concatenate str (not "int") to str
+
+**********
+
+- INPUT FUNCTION
+>>> x = input('what do you call yourself lad?')
+what do you call yourself lad? KENWAY     {here KENWAY is typed by the user}
+>>> print('on board', x)
+on board  KENWAY
+
+**********
+
+- COMMENTS
+1. These are used in a program to convey a message specifically to the user and has noting to do with the actual Python code. 
+e.g:
+>>> #hey jude  {here 'hey jude' has nothing to do with the code}
+... x = 55
+>>> print(x)
+55
+>>>

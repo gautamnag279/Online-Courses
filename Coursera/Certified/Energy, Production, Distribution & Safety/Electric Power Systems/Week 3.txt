@@ -1,0 +1,42 @@
+1. The switchgear components are; busbars, switches, circuit breakers, current and voltage transformers, surge arresters, grounding switches. These components are rated in accordance with relevant requirements, as well as expected mechanical and electrical loads.
+
+2. Besides measuring and calculating the quantities of energy supplied to consumers, these systems also incorporate mechanisms, providing protection against overvoltage, overcurrent, and short-circuit.
+
+3. The busbar constitutes the start and the end of the individual lines, which are called branches similar to tree branches. The branches can be connected and disconnected via switching devices called circuit breakers.
+
+4. A circuit breaker is an automatically operated electrical device designed to protect and the electrical circuit from damage caused by excess current typically resulting from an overload or short circuit. Its basic function is to interrupt current flow after a fault is detected. 
+
+5. Unlike a fuse, which operates once and then must be replaced, a circuit breaker can be reset either manually or automatically to resume normal operation. 
+
+6. When switching device disconnects a circuit under load or even at no load, but with voltage present, an arc will appear between the contacts. The higher the voltage or current, the bigger is the arc. The arc is very dangerous for personnel and equipment and must be extinguished.
+
+7. At low voltages, the arc is de-energized in the air between the contacts.
+
+8. Range of circuit breakers:
+(a) Low voltage (less than 1,000 V) are common in domestic, commercial, and industrial applications.
+
+(b) Medium voltage circuit breakers rated between 1 and 72 kV, maybe assembled into metal enclosed switchgear lineups for indoor use or maybe individual components installed outdoors in a substation.
+
+(c) Electrical power transmission networks are protected and controlled by high voltage breakers. They are usually 69 kV or higher. High voltage breakers are nearly always solenoid-operated, with current sensing protective relays operated through current transformers.
+
+9. High voltage breakers are broadly classified by the medium used to extinguish the arc; oil, air blast, vacuum, SF6, CO2. Due to environmental and cost concerns, overinsulating oil spills, most new breakers use SF6 gas to quench the arc.
+
+10. In power systems, a disconnect switches, or disconnectors, are used to ensure that an electric circuit is completely deenergized for service or maintenance. Such switches are often found in electrical distribution and industrial applications.
+
+11. High voltage switches are used in electrical substations to allow isolation of apparatus, such as the circuit breakers, transformers and transmission lines for maintenance.
+
+12. Unlike circuit breakers, disconnect switches lack a mechanism for suppression of electric arcs. Which occur when conductors carrying high currents are electrically interrupted. 
+
+13. Disconnectors are off-load devices, intended to be opened only after current has been interrupted by some other control device, such as a circuit breaker.
+
+14. The real difference is that a circuit breaker can trip open when it detects an overcurrent situation. Disconnect switches are usually installed on both sides of the equipment or line upon which work is to be done. They should not be operated while the circuit in which they are connected is energized. But only after the circuit is deenergized. As a further precaution, they may be opened by means of an insulated stick that helps the operator keep a distance from the switch.
+
+15. Switches are installed before and after a circuit breaker. Switches must only be operated in the de-energized state, which means only after the circuit breakers have been opened.
+
+16. To avoid faulty switching, the switches and associated circuit breakers are mechanically interlocked with each other.
+
+17. In accordance with its various functions, every switchgear system and substation is divided into individual fields, distinctions being made here between incoming feeders, outgoing feeders, and tie panels. These fields are represented entirely in the form of one-line diagrams using standard symbols.
+
+18. Current and voltage transformers acquire the data needed for metering and protection. The grounding switch is used to protect the line against effects of adjacent lines during maintenance work and lightning strikes.
+
+19. If one line is out of service due to the fault or maintenance, the circuit breaker connecting two sections, quote, tiebreaker, will close and ensure no interruption of power to loads connected to the other section.

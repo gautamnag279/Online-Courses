@@ -1,0 +1,18 @@
+Q1.) Take an input from the user living in Europe about which floor they are and then convert it into the USA floor equivalent.
+
+Ans.)
+floorEU = input('enter floor number?')
+>>> enter floor number? 4
+floorUSA = int(floorEU) + 1
+print('USA floor is' , floorUSA)
+USA floor is 5
+
+
+Q2.) Write a program to prompt the user for hours and rate per hour using input to compute gross pay. Use 35 hours and a rate of 2.75 per hour to test the program (the pay should be 96.25). You should use input to read a string and float() to convert the string to a number.
+
+Ans.)
+h = input('hours')
+r = input('rate')
+p = float(h)*float(r)
+print("Pay:" , p)
+

@@ -1,0 +1,5 @@
+- Arrays, Matrices, Linked Lists = PHYSICAL DATA STRUCTURES (i.e defines arrangement of data)
+- Stacks, Queues, Tress, Graphs, HashMaps = LOGICAL DATA STRUCTURES (i.e. defines utilization of data)
+
+
+

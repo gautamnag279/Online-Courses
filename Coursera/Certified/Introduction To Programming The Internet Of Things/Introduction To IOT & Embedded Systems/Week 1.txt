@@ -1,0 +1,21 @@
+1. IOT is basically taking any device(thing) and adding a computational intelligence to improve the function of the device. Then to "top - it - off" you add a network connection to it (i.e connect it to the internet). 
+
+2. The main function of an IOT device is not solely to compute. It supports computation, but it is not designed to just do that.
+
+3. Computers are "general - purposed" but an IOT device is not. An IOT devices are "task - specific".
+
+4. IOT devices are efficient in terms of trend as:
+() Devices are becoming smaller
+() Cost of hardware has decreased
+() Computational Ability
+() Internet Access
+         ++ Data cost is low
+         ++ Data bandwidth is high
+
+5. IOT devices have access to enornmous cloud database (eg: Siri, Alexa....)
+
+6. Home automation is also a good example of an IOT device. So are fitbits, pacemakers, insulin pumps, etc.
+
+7. Problem with IOT devices is that is is dependent on many other things(internet, bugs, hacking, electricity blackouts), so if any one such thing goes down the IOT device will stop. Even if the cloud server is compromised, all your data is in danger!
+
+8. IOT devices observe "a lot". So this means that it has a constant store of all your data. So, the more depedent you become on these devices, the more data you give tko them. Then these data can later be sold to 3rd parties. This is called the risk to privacy.

@@ -1,0 +1,42 @@
+1. RAM is 'random access memory' and ROM is 'read only memory'. 
+
+2. RAM is further divided as:
+a) SRAM (Static RAM) : Extremely fast. Stores data in Flip Flops.
+b) DRAM (Dynamic RAM): Moderate in speed. Stores data in capacitors.   
+c) SDRAM (Synchronous Dynamic RAM)
+
+3. PIXEL = Pixelated + Image
+
+4. More pixels mean more detailed image and more processing power required to display it.
+
+5. Colors are represented by numbers.
+
+6. More bits per-pixel gives you wider range of options to display color. Eg. 1 bit per pixel gives you only one option(0/1). Two bits per pixel gives you 4 options(00, 01, 11, 10)...and so on.
+
+7. Processor control the input/output and the memory.
+
+8. Steps in which a processor works (Instruction Cycle):
+- Fetch (takes the code out of the memory 'one-line-at-a-time')
+- Decode (decodes the code inorder to understand/interpret it)
+- Executes
+
+9. Compiler - Compiles the program to convert into machine language
+    Assembler - Assembles the code into machine language
+
+10. Fetching (point 8) takes the code out of the memory (where you wrote it) in the form of 0's and 1's. Whereas making sense of theoptcode(0's and 1's) is called decoding.
+
+11.  Bus is a set of lines that connectws the processor with memory and input/output (eg. lines inside a pen-drive). It is used to transfer information.
+
+12. An 8 bit bus means 8 lines and a 16 bit has 16 lines.
+
+13. There are 3 types of buses and together they are called "System Bus":
+- Address Bus
+- Data Bus
+- Control Bus
+
+"Say you want to store the data '55' into an address of '7777' in the memory. This process is called 'WRITE'. When the task is executed, the 'address bus' points at the location '7777' and then the 'data bus' takes in the data that needs to be stored in that address, which in this case is '55'. Then the 'control bus' selects one of he options from 'READ/WRITE' and since in this case it is WRITE it adds the value '55' into the address '7777'."
+
+"In case of READ, the address bar points at the location and ten the 'control bus' selects READ and then the 'data bus' gets executed which in turn pulls '55' out of the memory and displays it.
+
+
+

@@ -1,0 +1,19 @@
+1. An embedded system is a computer based system and hide the complexity of the computer from the user. Embedded systems may or may not be connected to the internet. Eg(digital camera, pen drive, etc.)
+
+2. Embedded devices are application specific. But there are exceptions; eg. smart phones, laptops, smart watches...etc.
+
+3. Therefore general purpose machines cost more than they need to. Eg. Playing Video Games. Now you can buy a high end specific laptop to play the game (but it will cost you a fortune) or you can buy an XBOX or PlayStation to play the game(which will cost you less than the laptop). This is cause PlayStations are designed specifically to play video games (they are application specific) , and so coast less than a laptop or PC(which is general specific).
+
+4. In application specific devices, higher design efficiency is possible.
+
+5. Embedded systems allow matching the harware part and the software part together. This way the softawre is designed to be compatible with the hardware and therefore makes the device simpler and more efficient.
+
+6. Microcontrollers are integrated circuits that executes a program.
+
+7. Embedded devices are fitted with a microcontroller rather than a microprocessor. This is because microcontrollers are task precific and are designed to do certain limited tasks whereas microprocessors are designed to do bigger tasks. Microcontrollers are cheap as well.
+
+8.  Physical phenemenons are analog signals. 
+
+9. Microcontrollers have an inbuit analog to digital converters.
+
+10. 

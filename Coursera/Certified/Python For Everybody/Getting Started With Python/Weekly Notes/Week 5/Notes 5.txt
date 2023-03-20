@@ -1,0 +1,58 @@
+- CONDITIONAL STATEMENTS
+1. 'If statement' ends with a colon (:) and the successive code is done after that.
+eg.
+x = 75
+i = input('enter attendance percentage:')
+y = int(i)
+if(y<x):
+    print("you are fucked") 
+else:
+    print("we'll get you next time")
+
+**********
+
+- CONDITIONAL OPERATORS
+Less than (<)
+Less than or equal to (<=)
+Greater than (>)
+Greater than or equal to (>=)
+Equal To (==)
+Not equal to (!=)
+
+**********
+
+- MULTIWAY CONDITIONAL STATEMENT
+eg:
+x = 5
+if (x<2) :
+    print('small')
+elif (x<4):
+    print('medium')
+else :
+    print('big')
+big
+
+**********
+
+- TRY & EXCEPT STRUCTURE
+1. You surround the dangerous section of the code with 'try' and 'except'
+2. If the code in 'try' works - the 'except' part is skipped
+3. If the code in 'except' works - the 'try' part is skipped
+
+eg (1): 'Try' executes
+x = "9"
+try:
+    y = int(x)
+except:
+    y = 5    
+print("The number is" , y)
+The number is 9
+
+eg(2): 'Except' executes
+x = "Kimley"
+try:
+    y = int(x)
+except:
+    y = 5
+print("The number is" , y)
+The number is 5

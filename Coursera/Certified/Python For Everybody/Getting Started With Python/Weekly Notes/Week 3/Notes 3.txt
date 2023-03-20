@@ -1,0 +1,37 @@
+print('"hello"')
+"hello"
+>>> print(""hello"")
+  File "<stdin>", line 1
+    print(""hello"")
+                ^
+SyntaxError: invalid syntax
+>>> print("'hello'")
+'hello'
+>>> print(''hello'')
+  File "<stdin>", line 1
+    print(''hello'')
+                ^
+SyntaxError: invalid syntax
+
+**********
+
+>>> x = 25
+>>> print(x)
+25
+>>> print("x")
+x
+>>> print('x')
+x
+
+**********
+
+ x = 26
+>>> x = x + 26
+>>> print(x)
+52
+>>> print('x')
+x
+>>> print("x")
+x
+
+**********

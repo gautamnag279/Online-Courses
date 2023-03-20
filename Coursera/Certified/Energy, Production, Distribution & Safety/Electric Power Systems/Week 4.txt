@@ -1,0 +1,48 @@
+1. More blackouts and brownouts (a reduction in or restriction on the availability of electrical power in a particular area) are occurring due to the slow response times of mechanical switches, a lack of automated analytics, and poor visibility, a lack of situational awareness on the part of grid operators.
+
+2. If the grid where just five percent more efficient, the energy savings would equate to permanently eliminating the fuel and greenhouse gas emissions from 53 million cars. 
+
+3. The costs associated with an underperforming grid are borne by every citizen, yet these hundreds of billions of dollars are buried in the economy and largely unreported.
+
+4. A smarter grid will function more efficiently, enabling it to deliver the level of service we've come to expect more affordably in the era of rising costs, while also offering considerable societal benefits, such as less impact on our environment. 
+
+5. Smart Grid - Smart Grid is a concept for transforming the electric power grid by using advanced automatic control and communications techniques and other forms of information technology. It integrates innovative tools and technologies from generation, transmission and distribution all the way to consumer appliances and equipment.
+
+6. The smart grid encompasses the technology that enables us to integrate, interface with, and intelligently control these innovations and others. Once again, in short, smart grid is intelligent, efficient, accommodating, motivating, opportunistic, quality-focused, resilient, green. 
+
+7. Smart grid is a technology that comprises of many technologies. Some of these are:
+() Advanced metering infra.
+() Visualization tech.
+() Phasor Measurement Units
+() Distribution Generation
+() Peak Demand
+() Smart Grid VS Smart Meter
+() An array of tech. approaches
+
+8. NOTE - Devices such as wind turbines, plug-in hybrid electric vehicles, and solar arrays are not part of the smart grid. The smart grid encompasses the technology that enables us to integrate, interface with, and intelligently control these innovations and others.
+
+9. Smart grid is intelligent, efficient, accommodating, motivating, opportunistic, quality-focused, resilient, green.
+
+10. Utilities are dedicated to providing for the public good by operating, maintaining, and building additional electrical infrastructure. 
+
+11. Increased asset optimization means more reliance upon the most efficient power plants, and less reliance upon the least efficient peaker plants. It allow utilities to defer new generation investment.
+
+12. The ability to effectively manage load with existing transmission and distribution infrastructure means that, ultimately, utilities would no longer have to build, or could at least defer infrastructure to account for rapidly increasing peak demand.
+
+13. The smart grid ability to dynamically manage all sources of power on the grid means that more distributed generation can be integrated within it.
+
+14. Smart grid deployment is a key tool in addressing the challenges of climate change.
+
+15. A smarter grid delivers and use conservation and efficiency thanks to its ability to establish more focused and pervasive consumer participation from a behavioral perspective. There is measurable energy savings when consumers participate.
+
+16. The Smart Grid has the potential to lower electric rates. These benefits accrue, however, only if these vehicles are charged strictly off peak. Charging electric vehicles on peak would only further stress the grid. 
+
+17. A Smarter Grid enables grid operators to see further into the system, and allows them the flexibility to better manage the intermittency of renewables. This in turn, surmounts a significant barrier, enabling wind and solar to be applied rapidly, and in larger percentages.
+
+18. In general renewable energy is more expensive to produce and to use than fossil fuel energy. Favorable renewable resources are often located in remote areas, and it can be expensive to build power lines from the renewable energy sources to the cities that need the electricity. 
+
+19. In addition, renewable sources are not always available. Clouds reduce electricity from solar power plants. Days with low wind reduce electricity from wind farms. Droughts reduce the water available for hydro-power. Let's talk about wind energy a little bit. Wind is caused by uneven heating of the Earth's surface by the sun. 
+
+20. Because the Earth's surface is made up of different types of land and water, it absorbs the sun's heat at different rates. One example of this uneven heating is the daily wind cycle. 
+
+21. 
