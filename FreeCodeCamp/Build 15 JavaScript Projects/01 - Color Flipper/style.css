@@ -1,0 +1,27 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px 0 25px 0;
+  margin: 15% 0 50px 0;
+  border-radius: 10px;
+  outline: 2px solid;
+  background-color: blanchedalmond;
+}
+
+.btn-hero {
+  color:antiquewhite;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 125px;
+  height: 40px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: rgb(35, 36, 26);
+}
