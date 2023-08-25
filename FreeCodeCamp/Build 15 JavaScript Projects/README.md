@@ -2,5 +2,4 @@
 Note:
 ```
 
-The guy teaching this course had a pre-loaded bootstraped css already into place so his projects look absolutely stunning. I on the other had have only focused on optimsing the Javascript part of the project and gave almost no thought to the CSS designing and just ChatGPT'ed it.
-
+The instructor of this code got this ready-to-go, turbocharged CSS baked in, making his projects look absolutely stunning. Me? Well, I've been all about fine-tuning the JavaScript wizardry, and I might've left the CSS looking a tad basic – just went all ChatGPT on it.
