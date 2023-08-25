@@ -62,7 +62,7 @@ function updatePage() {
 prevBtn.addEventListener('click', function () {
     currItem--;
     if (currItem < 0) {
-        currItem = 3;
+        currItem = 4;
     }
     updatePage();
 
@@ -70,13 +70,13 @@ prevBtn.addEventListener('click', function () {
 
 nextBtn.addEventListener('click', function () {
     currItem++;
-    if (currItem > 3) {
+    if (currItem > 4) {
         currItem = 0;
     }
     updatePage();
 })
 
 randomBtn.addEventListener('click', function () {
-    currItem = Math.floor(Math.random() * 4);
+    currItem = Math.floor(Math.random() * 5);
     updatePage();
 })
