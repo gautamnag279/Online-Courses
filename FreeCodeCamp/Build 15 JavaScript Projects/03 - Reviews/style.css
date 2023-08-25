@@ -1,0 +1,77 @@
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Centering the .title class */
+.title {
+  text-align: center;
+  margin-top: 50px;
+  background-color: rgb(237, 237, 211);
+  /* Adjust the value as needed */
+}
+
+/* Positioning the .review class below .title and centering it */
+.review {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  /* Adjust the value as needed */
+}
+
+/* Positioning the .button-container class at the bottom of the page */
+.button-container {
+  text-align: center;
+  margin-top: 20px;
+  /* Adjust the value as needed */
+}
+
+#job {
+  margin: 5px 0 5px 0;
+  padding: 0 20% 0 20%;
+}
+
+#info {
+  text-align: center;
+  width: 350px;
+  margin: 5px 0 5px 0;
+  padding: 0 20% 0 20%;
+}
+
+.img-container img {
+  border-radius: 10px;
+}
+
+h4{
+  margin: 10px auto 0 auto;
+}
+
+/* Styling the previous and next buttons */
+.prev-btn,
+.next-btn {
+  background-color: #333; /* Change the background color as desired */
+  color: #fff; /* Button text color */
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Styling the random button */
+.random-btn {
+  background-color: #ed790d; /* Change the background color as desired */
+  color: #000000; /* Button text color */
+  font-size: 15px;
+  border:#000000 solid 2px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Changing button color on hover */
+.prev-btn:hover,
+.next-btn:hover,
+.random-btn:hover {
+  background-color: #2bb1e1; /* Change the hover background color as desired */
+}
